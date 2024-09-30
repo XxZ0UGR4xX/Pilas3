@@ -1,0 +1,14 @@
+C:\Users\franc\source\repos\TareaPilas3\bin\Debug\net8.0\TareaPilas3.exe
+C:\Users\franc\source\repos\TareaPilas3\bin\Debug\net8.0\TareaPilas3.deps.json
+C:\Users\franc\source\repos\TareaPilas3\bin\Debug\net8.0\TareaPilas3.runtimeconfig.json
+C:\Users\franc\source\repos\TareaPilas3\bin\Debug\net8.0\TareaPilas3.dll
+C:\Users\franc\source\repos\TareaPilas3\bin\Debug\net8.0\TareaPilas3.pdb
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.AssemblyInfo.cs
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.dll
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\refint\TareaPilas3.dll
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.pdb
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\TareaPilas3.genruntimeconfig.cache
+C:\Users\franc\source\repos\TareaPilas3\obj\Debug\net8.0\ref\TareaPilas3.dll
